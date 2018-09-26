@@ -1,0 +1,7 @@
+{
+    "name": "butkevicius/algolia-php-example",
+    "require": {
+        "algolia/algoliasearch-client-php": "^1.27",
+        "vlucas/phpdotenv": "^2.5"
+    }
+}
